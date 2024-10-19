@@ -1,5 +1,4 @@
-# balancing-automated-leveraging-and-leveling-electronic-robot
-
+# Self-Leveling Platform
 
 ## Overview
 The Balancing Automated Leveraging and Levelling Electronic Robot (BALLER) is an advanced mechatronic system designed to dynamically stabilize a 1-inch steel bearing ball on its surface. Utilizing precise PID control algorithms, BALLER compensates for external disturbances to maintain balance.
